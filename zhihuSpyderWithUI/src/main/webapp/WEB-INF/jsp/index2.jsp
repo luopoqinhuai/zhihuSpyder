@@ -8,5 +8,8 @@
 </head>
 <body>
 HELLO RENO!  index2
+
+<img src="/zhihuSpyderWithUI/images/ceshi.bmp">
+
 </body>
 </html>
